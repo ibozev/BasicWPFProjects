@@ -1,2 +1,2 @@
 # BasicWPFProjects
-Learning basic WPF and .NET 
+Basic university projects for learning WPF and .NET 
